@@ -1,94 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T06:38:34.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="67GR0bSNyi9oWResIEZe" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T06:40:54.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="M6awvI3-2_JUklx3Sjcp" version="24.3.0" type="github">
   <diagram name="第 1 页" id="C66fUa8SsGzZPBdXzG9W">
     <mxGraphModel dx="3211" dy="2476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h03oHfglPhTB2q8768p--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--1" target="h03oHfglPhTB2q8768p--3">
+        <mxCell id="h03oHfglPhTB2q8768p--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--1" target="h03oHfglPhTB2q8768p--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--1" target="h03oHfglPhTB2q8768p--2">
+        <mxCell id="h03oHfglPhTB2q8768p--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--1" target="h03oHfglPhTB2q8768p--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--1" target="h03oHfglPhTB2q8768p--4">
+        <mxCell id="h03oHfglPhTB2q8768p--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--1" target="h03oHfglPhTB2q8768p--4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--1" value="为在同一平台串联同一业务所有配置，建立统一后台，对现有后台现状及bms接入其他系统流程进行调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--1" value="为在同一平台串联同一业务所有配置，建立统一后台，对现有后台现状及bms接入其他系统流程进行调研" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-60" y="-460" width="610" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--2" target="h03oHfglPhTB2q8768p--6">
+        <mxCell id="h03oHfglPhTB2q8768p--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--2" target="h03oHfglPhTB2q8768p--6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--2" target="h03oHfglPhTB2q8768p--5">
+        <mxCell id="h03oHfglPhTB2q8768p--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--2" target="h03oHfglPhTB2q8768p--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--2" target="h03oHfglPhTB2q8768p--7">
+        <mxCell id="h03oHfglPhTB2q8768p--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--2" target="h03oHfglPhTB2q8768p--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--2" value="魔方营销系统现状及接入流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--2" value="魔方营销系统现状及接入流程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-500" y="-260" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--3" target="h03oHfglPhTB2q8768p--8">
+        <mxCell id="h03oHfglPhTB2q8768p--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--3" target="h03oHfglPhTB2q8768p--8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--3" target="h03oHfglPhTB2q8768p--9">
+        <mxCell id="h03oHfglPhTB2q8768p--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--3" target="h03oHfglPhTB2q8768p--9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--3" value="服务平台现状及开发指南" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--3" value="服务平台现状及开发指南" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="160" y="-260" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--4" target="h03oHfglPhTB2q8768p--10">
+        <mxCell id="h03oHfglPhTB2q8768p--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--4" target="h03oHfglPhTB2q8768p--10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--4" target="h03oHfglPhTB2q8768p--11">
+        <mxCell id="h03oHfglPhTB2q8768p--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--4" target="h03oHfglPhTB2q8768p--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--4" value="Bms后台系统现状及接入流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--4" value="Bms后台系统现状及接入流程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="690" y="-260" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--5" value="系统简介：&lt;div&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;魔方系统，前端使用rock平台搭建，前后端均使用upms系统鉴权。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--5" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;系统简介：&lt;/div&gt;&lt;div&gt;魔方系统，前端使用rock平台搭建，前后端均使用upms系统鉴权。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-780" y="-52.5" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--6" target="h03oHfglPhTB2q8768p--12">
+        <mxCell id="h03oHfglPhTB2q8768p--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--6" target="h03oHfglPhTB2q8768p--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--6" target="h03oHfglPhTB2q8768p--13">
+        <mxCell id="h03oHfglPhTB2q8768p--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--6" target="h03oHfglPhTB2q8768p--13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--6" value="前端页面接入：&lt;div&gt;在rock平台上进行页面配置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--6" value="前端页面接入：&lt;div&gt;在rock平台上进行页面配置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-519" y="-52.5" width="208" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--7" value="后端接入：&lt;div&gt;接口引入upms鉴权jar包即可&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--7" value="后端接入：&lt;div&gt;接口引入upms鉴权jar包即可&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-251" y="-52.5" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--8" value="系统简介：&lt;div&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;公共侧小红书接入了服务平台&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--8" value="&lt;div&gt;&lt;div&gt;系统简介：&lt;/div&gt;&lt;div&gt;公共侧小红书接入了服务平台&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="19" y="-52.5" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--9" value="开发指南：&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;参考&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;服务平台开发指南&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;wiki&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--9" value="&lt;div&gt;开发指南：&lt;/div&gt;&lt;div&gt;参考服务平台开发指南wiki&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="288" y="-52.5" width="210" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--10" value="系统简介及权限介绍：&lt;div&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;公共侧会员相关和小红书相关后台集中在bms，bms采用vue3+element-plus进行开发，采用RBAC权限模型&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--10" value="系统简介及权限介绍：&lt;div&gt;公共侧会员相关和小红书相关后台集中在bms，bms采用vue3+element-plus进行开发，采用RBAC权限模型&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="553" y="-52.5" width="220" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--11" target="h03oHfglPhTB2q8768p--15">
+        <mxCell id="h03oHfglPhTB2q8768p--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--11" target="h03oHfglPhTB2q8768p--15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--11" value="Bms嵌入其他系统流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--11" value="Bms嵌入其他系统流程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="827" y="-52.5" width="210" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--12" value="菜单栏配置：&lt;div&gt;修改菜单栏配置页面，添加新的页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--12" value="菜单栏配置：&lt;div&gt;修改菜单栏配置页面，添加新的页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-640" y="150" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--13" value="页面权限配置：&lt;div&gt;修改needPermission配置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--13" value="页面权限配置：&lt;div&gt;修改needPermission配置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-380" y="150" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--14" value="嵌入服务平台：&lt;div&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;服务平台通过ifram嵌入的页面，将服务平台的登录态切换为bms的登录态就行，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;详细流程参考wiki&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--14" value="&lt;div&gt;&lt;div&gt;嵌入服务平台：&lt;/div&gt;&lt;div&gt;服务平台通过ifram嵌入的页面，将服务平台的登录态切换为bms的登录态就行，详细流程参考wiki&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="690" y="140" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--15" value="嵌入魔方系统：&lt;div&gt;在rock平台拖拽编辑即可，详细流程参考wiki&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h03oHfglPhTB2q8768p--15" value="嵌入魔方系统：&lt;div&gt;在rock平台拖拽编辑即可，详细流程参考wiki&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="1010" y="140" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h03oHfglPhTB2q8768p--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.424;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--11" target="h03oHfglPhTB2q8768p--14">
+        <mxCell id="h03oHfglPhTB2q8768p--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.424;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="h03oHfglPhTB2q8768p--11" target="h03oHfglPhTB2q8768p--14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
